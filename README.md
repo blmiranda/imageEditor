@@ -1,3 +1,3 @@
 # imageEditor
 
-A program that will receive an image, resize it and compress it
+A CLI program that will receive an image, resize it and compress it!
